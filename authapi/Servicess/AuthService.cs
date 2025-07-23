@@ -23,7 +23,7 @@ namespace authapi.Servicess
         public async Task<(bool success, string message)> RegisterUserAsync(UserSignupDto request)
         {
             var existingUser = await _userManager.FindByEmailAsync(request.Email);
-            if (existingUser == null)
+            if (existingUser != null)
             {
                 return (false, "user with this email already exists");
             }
@@ -52,7 +52,7 @@ namespace authapi.Servicess
                 return (false, "user not found", null);
             }
             var isCorrect = await _userManager.CheckPasswordAsync(existinguser, request.Password);
-            if (isCorrect)
+            if (!isCorrect)
             {
                 return (false, "wrong credentials", null);
             }

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("authapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dc776a9031ccdc024e78c5b1117d78b3ea2e399")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b4b7eec453449134697115ead7afa951876797f")]
 [assembly: System.Reflection.AssemblyProductAttribute("authapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("authapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

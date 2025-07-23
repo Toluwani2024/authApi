@@ -134,3 +134,5 @@ C:\Users\HP\source\repos\authapi\authapi\obj\Debug\net9.0\refint\authapi.dll
 C:\Users\HP\source\repos\authapi\authapi\obj\Debug\net9.0\authapi.pdb
 C:\Users\HP\source\repos\authapi\authapi\obj\Debug\net9.0\authapi.genruntimeconfig.cache
 C:\Users\HP\source\repos\authapi\authapi\obj\Debug\net9.0\ref\authapi.dll
+C:\Users\HP\source\repos\authapi\authapi\obj\Debug\net9.0\authapi.sourcelink.json
+C:\Users\HP\source\repos\authapi\authapi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
