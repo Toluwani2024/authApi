@@ -49,7 +49,7 @@ namespace authapi.Servicess
             var existinguser = await _userManager.FindByEmailAsync(request.Email);
             if (existinguser == null)
             {
-                return (false, "user not found", null);
+                return (false, "User not found", null);
             }
             var isCorrect = await _userManager.CheckPasswordAsync(existinguser, request.Password);
             if (!isCorrect)
