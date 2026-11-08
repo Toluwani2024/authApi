@@ -212,4 +212,4 @@ These are explicit follow-up engineering tasks, not features claimed as already 
 Web Developer | Founder of Lumeon.dev
 
 - GitHub: [@Toluwani2024](https://github.com/Toluwani2024)
-- Portfolio: [dev-portfolio-two-flame.vercel.app](https://dev-portfolio-two-flame.vercel.app)
+- Portfolio: portfolio-two-opal-mxh80mui1e.vercel.app
